@@ -10,7 +10,7 @@ Documentação inicial para uma experiência digital no setor automotivo.
 
 
 <!-- readme:project-navigation -->
-<p align="center"><sub>[Visão do projeto](#visao-do-projeto) · [Situação do repositório](#situacao-do-repositorio) · [Acessar o repositório](#acessar-o-repositorio) · [Próximos passos](#proximos-passos) · [Colaboração](#colaboracao)</sub></p>
+<p align="center"><sub><a href="#visao-do-projeto">Visão do projeto</a> &nbsp;·&nbsp; <a href="#situacao-do-repositorio">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositorio">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#proximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboracao">Colaboração</a></sub></p>
 <!-- /readme:project-navigation -->
 ## Situação do repositório
 
