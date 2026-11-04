@@ -8,6 +8,10 @@ Documentação inicial para uma experiência digital no setor automotivo.
 
 ---
 
+
+<!-- readme:project-navigation -->
+<p align="center"><sub>[Visão do projeto](#visao-do-projeto) · [Situação do repositório](#situacao-do-repositorio) · [Acessar o repositório](#acessar-o-repositorio) · [Próximos passos](#proximos-passos) · [Colaboração](#colaboracao)</sub></p>
+<!-- /readme:project-navigation -->
 ## Situação do repositório
 
 Este espaço reúne a documentação inicial de **MGM Automotiva**. O código da aplicação ainda não está versionado aqui; a versão local pode estar mais avançada.
@@ -47,4 +51,6 @@ Não versione senhas, tokens ou dados de clientes.
 
 ---
 
-Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
+<p align="center">
+  <sub><strong>Automotivo</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
+</p>
