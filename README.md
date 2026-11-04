@@ -1,10 +1,14 @@
+<div align="center">
+
 # MGM Automotiva
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-EA580C?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-EA580C?style=flat-square&labelColor=111827)
+<p>Site de apresentação para serviços automotivos.</p>
 
-## Visão do projeto
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-Documentação inicial para uma experiência digital no setor automotivo.
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
