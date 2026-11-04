@@ -1,14 +1,10 @@
-<div align="center">
+# MGM Automotiva
 
-<sub>AUTOMOTIVO</sub>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-EA580C?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-EA580C?style=flat-square&labelColor=111827)
 
-<h1>MGM Automotiva</h1>
+## Visão do projeto
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
-
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
-
-</div>
+Documentação inicial para uma experiência digital no setor automotivo.
 
 ---
 
