@@ -1,41 +1,9 @@
-<div align="center">
-
 # MGM Automotiva
 
-<p>Site de apresentação para serviços automotivos.</p>
+Site de apresentação dos serviços da MGM Automotiva, com informações para quem deseja conhecer o trabalho e entrar em contato.
 
-<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
+**Site:** https://mgm-automotiva.vercel.app
 
-<sub>PROJETO · PAULO MATHEUS</sub>
+## Repositório
 
-</div>
-
----
-
-<p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#ver-online">Ver online</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
-
-## Sobre
-
-Site de apresentação para serviços automotivos, com foco em contato e divulgação do trabalho.
-
-## Estado atual
-
-**Demonstração publicada.** A demonstração está no ar. O código usado nela ainda será organizado e enviado para este repositório.
-
-## Linguagens
-
-Este repositório guarda a apresentação do projeto. Como os arquivos do site ainda não estão aqui, o GitHub não tem uma linguagem para calcular por enquanto.
-
-<img alt="README" src="https://img.shields.io/badge/README-374151?style=for-the-badge&logo=markdown&logoColor=white" />
-
-## Ver online
-
-[MGM Automotiva](https://mgm-automotiva.vercel.app)
-
-## Próximo passo
-
-Versionar a aplicação publicada e revisar serviços, endereço e canais de atendimento.
-
----
-
-<p align="center"><sub>Automotivo · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL · <a href="https://www.instagram.com/kmtpl7/">Instagram @kmtpl7</a></sub></p>
+A demonstração está publicada, mas seu código ainda não foi incluído aqui. Este espaço mantém o registro do projeto até que a aplicação seja organizada no GitHub; por isso, ainda não há linguagens detectadas.
