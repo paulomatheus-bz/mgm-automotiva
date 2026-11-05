@@ -18,4 +18,8 @@ O visitante encontra uma apresentação do trabalho e os canais para tirar dúvi
 
 O código publicado ainda não foi organizado neste repositório. A versão atual é uma vitrine e a stack prevista para esse formato é HTML, CSS e JavaScript. Serviços e imagens devem ser revisados com a empresa antes de qualquer atualização.
 
+## Continuidade do projeto
+
+Vou manter a apresentação alinhada aos serviços e contatos confirmados pela MGM. Antes de publicar alterações, é importante validar as informações com a equipe e testar os links de contato em computador e celular.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
