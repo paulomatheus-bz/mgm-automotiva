@@ -1,8 +1,6 @@
-<div align="center">
-
 # MGM Automotiva
 
-*Desenvolvi uma página para apresentar os serviços da MGM Automotiva e facilitar o contato com a empresa.*
+Desenvolvi uma página para apresentar os serviços da MGM Automotiva e facilitar o contato com a empresa.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,7 +9,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-</div>
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Acessar:** https://mgm-automotiva.vercel.app
