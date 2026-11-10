@@ -1,6 +1,6 @@
 # MGM Automotiva
 
-Página da MGM Automotiva com apresentação dos serviços e canais de contato.
+Apresentação dos serviços da MGM Automotiva.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,10 +11,10 @@ Página da MGM Automotiva com apresentação dos serviços e canais de contato.
 
 ---
 
-**Acessar:** https://mgm-automotiva.vercel.app
+**Página:** https://mgm-automotiva.vercel.app
 
-Página de apresentação dos serviços da MGM Automotiva. Orçamentos e contratação são tratados diretamente com a equipe; o site não calcula preços nem registra pedidos.
+Apresenta os serviços da MGM e direciona o visitante para conversar com a equipe. Orçamentos são feitos diretamente com a empresa.
 
-O código publicado não está organizado neste repositório. A stack prevista é HTML, CSS e JavaScript. Serviços, contatos e imagens devem ser confirmados com a empresa antes de atualizar a vitrine.
+Os arquivos da página não estão neste repositório. HTML, CSS e JavaScript são a stack prevista.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
