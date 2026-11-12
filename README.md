@@ -17,4 +17,9 @@ Apresenta os serviços da MGM e direciona o visitante para conversar com a equip
 
 Os arquivos da página não estão neste repositório. HTML, CSS e JavaScript são a stack prevista.
 
+
+## Apresentação comercial
+
+Página institucional destinada a reunir os serviços de estética automotiva e o contato da empresa.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
